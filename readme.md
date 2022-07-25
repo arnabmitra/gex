@@ -26,6 +26,8 @@ Configure an optional port, instead of using the default RPC port `26657`
 
 `gex -p 27657`
 
+Configure optional network type for provenance
+`gex -n mainnet`
 ## Preview
 
 ![Terminal Screenshot](./screenshot.png "Screenshot Application")
